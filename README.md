@@ -8,7 +8,7 @@ This webpage shows the Kentucky land cover and University of Kentucky Campus tre
 
 ## Kentucky Land Cover Map
 
-![Kentucky Land Cover Map][Kentucky-Landcover.jpg]
+![Kentucky Land Cover Map](Kentucky-Landcover.jpg)
 *Download [GeoPDF](Kentucky-Landcover.pdf)*
 
 
