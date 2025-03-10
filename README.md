@@ -4,6 +4,7 @@ This webpage shows the Kentucky land cover and University of Kentucky Campus tre
 
 * Data from kyraster.ky.gov
 * NDVI greater than 0.05 and Height greater than 5 feet used to find trees
+* 2016 National Landcover dataset used for the Kentucky Land Cover Map
 
 
 ## Kentucky Land Cover Map
