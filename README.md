@@ -14,8 +14,8 @@ This webpage shows the Kentucky land cover and University of Kentucky Campus tre
 
 ## University of Kentucky Campus Tree Map
 
-![Tree Canopy Map](Tree-Model.jpg)
-*Download [GeoPDF](Tree-Model.pdf)*
+![Tree Canopy Map](Tree-Model2.jpg)
+*Download [GeoPDF](Tree-Model2.pdf)*
 
 
 
